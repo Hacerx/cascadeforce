@@ -16,7 +16,7 @@
 
 ## 🧠 Public Methods
 
-### [Cascadeforce](docs/miscellaneous/Cascadeforc.md)
+### [Cascadeforce](docs/miscellaneous/Cascadeforce.md)
 
 ### 🔍 `getRelatedRecords(recordIds)`
 
