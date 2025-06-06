@@ -1,0 +1,16 @@
+{
+  "packageDirectories": [
+    {
+      "path": "src",
+      "default": false
+    },
+    {
+      "path": "unpackaged",
+      "default": true
+    }
+  ],
+  "name": "cascadeforce",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "63.0"
+}
